@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Task Three</string>
-    <string name="button_1_main">Click Me!</string>
-    <string name="toast_main">Application Started</string>
-    <string name="text_1_second">Task 3 Complete</string>
-    <string name="snackbar_second">SecondActivity</string>
-</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task Four</string>
+    <string name="movie_name">Movie : </string>
+    <string name="ticket_no">Tickets: </string>
+    <string name="ticket_button">Send Details</string>
+    <string name="detail_1">Details about</string>
+    <string name="detail_2">tickets for</string>
+    <string name="detail_3">has been received!</string>
+</resources>
