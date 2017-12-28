@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorGrey">#222224</color>
+    <color name="metroUI_1">#d11141</color>
+    <color name="metroUI_2">#00b159</color>
+    <color name="metroUI_3">#00aedb</color>
+    <color name="metroUI_4">#f37735</color>
+    <color name="metroUI_5">#ffc425</color>
+    <color name="fire_1">#fdcf58</color>
+    <color name="fire_2">#757676</color>
+    <color name="fire_3">#f27d0c</color>
+    <color name="fire_4">#800909</color>
+    <color name="fire_5">#f07f13</color>
+</resources>
