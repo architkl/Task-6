@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task Six</string>
+    <string name="frag1_text1">Winter Dev Project</string>
+    <string name="btn_text">Continue</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_picture">Picture</string>
+</resources>
